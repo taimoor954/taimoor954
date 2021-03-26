@@ -47,7 +47,7 @@
 <hr>
 
 
-[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=taimoor954)](https://github.com/taimoor954)
+[![Taimoor's github stats](https://github-readme-stats.vercel.app/api?username=taimoor954)](https://github.com/taimoor954)
 
 
 
