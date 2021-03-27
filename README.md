@@ -56,5 +56,18 @@
 </p>
 
 
+> Want to get in touch?
 
-<!--<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
+<p align="center">
+  <a href="https://dev.to/taimoor954" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vadorequest" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/muhammad-taimoor-bb9664170/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/taimoor.148" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2391795" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+</p>
+
