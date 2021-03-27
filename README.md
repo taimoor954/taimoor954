@@ -66,7 +66,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/taimoor.148" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2391795" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   
 </p>
