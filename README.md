@@ -49,8 +49,10 @@
 
 
 <p>
-  <img align="left" margin-bottom='20' src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor954&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor954&count_private=true&theme=dracula">
+
  <img align="center"  margin-bottom='20' src="https://github-readme-stats.vercel.app/api?username=taimoor954&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400" alt="vadorequest" />
+ 
 </p>
 <br>
 <br>
