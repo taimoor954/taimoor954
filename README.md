@@ -28,6 +28,9 @@
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
 
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
+
+
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
@@ -40,13 +43,14 @@
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/typescript-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/materialui-plain.svg" height="auto" width="40">
+
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
 
